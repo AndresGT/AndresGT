@@ -1,15 +1,15 @@
 # 👋 ¡Hola, soy DvAndresGT!
 
-### 🚀 dvFullstack Developer  
+### 🚀 Developer  Fullstack 
 Apasionado por la tecnología y el desarrollo de aplicaciones innovadoras para la web, móviles y más. Constantemente aprendiendo y compartiendo conocimientos. 🌟
 
 ---
 
 ## 🌟 Sobre mí:
-- 🔭 Actualmente trabajando en **apps interactivas** y un **juego estilo Piano Tiles**.  
+- 🔭 Actualmente trabajando en **apps interactivas** y una **App de Streaming**.  
 - 🌱 Explorando **Flutter** y perfeccionando habilidades en tecnologías backend y frontend.  
 - 💬 Pregúntame sobre **Flutter, Firebase, Supabase, TMDB API** y más.  
-- 📫 ¿Quieres colaborar? Contáctame en **andres@example.com**.  
+- 📫 ¿Quieres colaborar? Contáctame en **diegogiraldo506@gmail.com**.  
 
 ---
 
