@@ -47,8 +47,8 @@ Apasionado por la tecnología y el desarrollo de aplicaciones innovadoras para l
 
 ## 📊 Mis estadísticas:
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=DvAndresGT&show_icons=true&theme=radical)  
-![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=DvAndresGT&layout=compact&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AndresGT&show_icons=true&theme=radical)  
+![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=AndresGT&layout=compact&theme=radical)
 
 ---
 
