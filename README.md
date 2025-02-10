@@ -54,7 +54,7 @@ Apasionado por la tecnología y el desarrollo de aplicaciones innovadoras para l
 
 ## 🤝 ¡Conéctate conmigo!
 - 📧 **diegogiraldo506@gmail.com**  
-- 🌐 [Mi sitio web](https://dvandresgt.dev)  
+- 🌐 [Mi sitio web](https://dvandresgt.lat)  
 - 🐦 [Twitter](https://twitter.com/DvAndresGT)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/DvAndresGT)  
 
