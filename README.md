@@ -39,7 +39,7 @@ Apasionado por la tecnología y el desarrollo de aplicaciones innovadoras para l
 
 ## 📂 Proyectos destacados:
 
-- 📱 **[Discord+](https://github.com/DvAndresGT/discord-plus)**: Aplicación inspirada en Discord y Guilded con base de datos **Supabase**.  
+- 📱 **[Zork+](https://github.com/DvAndresGT/Zork)**: Aplicación inspirada en Discord y Guilded con base de datos **Supabase**.  
 - 🎥 **[TMDB Sync](https://github.com/DvAndresGT/tmdb-sync)**: Sincroniza películas y datos desde TMDB usando **Firebase**.  
 - 🚀 **[Kotlin Multiplatform App](https://github.com/DvAndresGT/kmp-app)**: Aplicación multiplataforma usando **Kotlin Multiplatform** y **Docker**.
 
