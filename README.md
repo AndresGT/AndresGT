@@ -1,12 +1,12 @@
 # 👋 ¡Hola, soy DvAndresGT!
 
-### 🚀 Developer Fullstack  
-Apasionado por la tecnología y el desarrollo de aplicaciones innovadoras para la web, móviles y más. Constantemente aprendiendo y compartiendo conocimientos. 🌟
+### 🚀 Desarrollador Multiplataforma Full Stack   
+Apasionado por crear soluciones tecnológicas innovadoras: desde apps móviles hasta plataformas web interactivas. Siempre explorando nuevas tecnologías, compartiendo conocimiento y puliendo cada línea de código. ⚡
 
 ---
 
 ## 🌟 Sobre mí:
-- 🔭 Actualmente trabajando en **apps interactivas** y una **App de Streaming**.  
+- 🔭 Actualmente trabajando en **apps interactivas** y una **Nexunid**.  
 - 🌱 Explorando **Flutter**, **Kotlin Multiplatform** y perfeccionando habilidades en tecnologías backend y frontend.  
 - 💬 Pregúntame sobre **Flutter, Firebase, Supabase, TMDB API, Kotlin Multiplatform** y más.  
 - 📫 ¿Quieres colaborar? Contáctame en **diegogiraldo506@gmail.com**.  
