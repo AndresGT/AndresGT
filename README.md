@@ -40,15 +40,13 @@ Apasionado por crear soluciones tecnológicas innovadoras: desde apps móviles h
 ## 📂 Proyectos destacados:
 
 - 📱 **[Zork+](https://github.com/DvAndresGT/Zork)**: Aplicación inspirada en Discord y Guilded con base de datos **Supabase**.  
-- 🎥 **[TMDB Sync](https://github.com/DvAndresGT/tmdb-sync)**: Sincroniza películas y datos desde TMDB usando **Firebase**.  
-- 🚀 **[Kotlin Multiplatform App](https://github.com/DvAndresGT/kmp-app)**: Aplicación multiplataforma usando **Kotlin Multiplatform** y **Docker**.
+- 🚀 **[KMP App](https://github.com/DvAndresGT/kmp-app)**: Aplicación multiplataforma usando **Kotlin Multiplatform** y **Docker**.
 
 ---
 
 ## 📊 Mis estadísticas:
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AndresGT&show_icons=true&theme=radical)  
-![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=AndresGT&layout=compact&theme=radical)
+![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=AndresGT&layout=compact&theme=radical) ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AndresGT&show_icons=true&theme=radical)  
 
 ---
 
@@ -60,4 +58,4 @@ Apasionado por crear soluciones tecnológicas innovadoras: desde apps móviles h
 
 ---
 
-> **"El código es mi pasión y el aprendizaje, mi estilo de vida."** 🚀
+> **"El código es mi pasión, el aprendizaje mi motor y la curiosidad... mi sistema operativo."** 🚀
