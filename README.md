@@ -39,8 +39,8 @@ Apasionado por crear soluciones tecnológicas innovadoras: desde apps móviles h
 
 ## 📂 Proyectos Destacados
 
-- 🚀 **[Nexunid - Plataforma de Contactos] (En Desarrollo Activo)**: ... (la descripción que ya trabajamos)
-- ⚙️ **[Nexunid API - Backend en Go] (En Desarrollo Activo)**: ... (la descripción que ya trabajamos)
+- 🚀 **[Nexunid - Plataforma de Contactos] (En Desarrollo Activo)**: 
+- ⚙️ **[Nexunid API - Backend en Go] (En Desarrollo Activo)**:
 
 **[➡️ Visita mi portafolio web para ver más proyectos, incluyendo estudios de caso detallados y trabajos anteriores.](https://dvandresgt.lat)**
 
