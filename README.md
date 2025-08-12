@@ -37,10 +37,12 @@ Apasionado por crear soluciones tecnológicas innovadoras: desde apps móviles h
 
 ---
 
-## 📂 Proyectos destacados:
+## 📂 Proyectos Destacados
 
-- 📱 **[Zork+](https://github.com/DvAndresGT/Zork)**: Aplicación inspirada en Discord y Guilded con base de datos **Supabase**.  
-- 🚀 **[KMP App](https://github.com/DvAndresGT/kmp-app)**: Aplicación multiplataforma usando **Kotlin Multiplatform** y **Docker**.
+- 🚀 **[Nexunid - Plataforma de Contactos] (En Desarrollo Activo)**: ... (la descripción que ya trabajamos)
+- ⚙️ **[Nexunid API - Backend en Go] (En Desarrollo Activo)**: ... (la descripción que ya trabajamos)
+
+**[➡️ Visita mi portafolio web para ver más proyectos, incluyendo estudios de caso detallados y trabajos anteriores.](https://dvandresgt.lat)**
 
 ---
 
