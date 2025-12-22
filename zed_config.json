@@ -1,0 +1,54 @@
+{
+  "agent_ui_font_size": 12.0,
+  "ui_font_weight": 500.0,
+  "ui_font_size": 12.0,
+  "buffer_font_weight": 500.0,
+  "buffer_font_size": 12.0,
+  "features": {
+    "edit_prediction_provider": "zed",
+  },
+  "edit_predictions": {
+    "mode": "eager",
+  },
+  "project_panel": {
+    "dock": "right",
+  },
+  "theme": "Catppuccin Espresso (Blur) [Heavy]",
+  "bottom_dock_layout": "left_aligned",
+  "autosave": {
+    "after_delay": {
+      "milliseconds": 1000,
+    },
+  },
+  "base_keymap": "VSCode",
+  "current_line_highlight": "none",
+  "gutter": {
+    "line_numbers": false,
+    "breakpoints": false,
+    "runnables": false,
+  },
+  "scrollbar": {
+    "show": "never",
+  },
+  "tab_bar": {
+    "show": true,
+    "show_nav_history_buttons": false,
+    "show_tab_bar_buttons": false,
+  },
+  "tabs": {
+    "file_icons": true,
+    "git_status": true,
+    "show_close_button": "hidden",
+    "show_diagnostics": "errors",
+  },
+  "toolbar": {
+    "breadcrumbs": false,
+    "quick_actions": false,
+  },
+  "indent_guides": {
+    "enabled": true,
+    "line_width": 0,
+    "active_line_width": 0,
+    "coloring": "indent_aware",
+  },
+}
