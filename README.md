@@ -48,10 +48,8 @@ Especializado en diseñar y construir soluciones tecnológicas escalables, segur
 
 ## 📊 Estadísticas de GitHub:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndresGT&show_icons=true&theme=radical" alt="Estadísticas de GitHub" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresGT&layout=compact&theme=radical" alt="Lenguajes más usados" height="170" />
-</p>
+  ![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=AndresGT&layout=compact&theme=radical) ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AndresGT&show_icons=true&theme=radical)  
+
 
 ---
 
