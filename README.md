@@ -8,8 +8,8 @@
 
 Construyo soluciones multiplataforma con especial atención a la **seguridad, trazabilidad, rendimiento y mantenibilidad**.
 
-[![Portafolio](https://img.shields.io/badge/Portafolio-Visitar-00ADD8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://devandresgt.lat)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/DevAndresGT)
+[![Portafolio](https://img.shields.io/badge/Portafolio-Visitar-00ADD8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://zoommergelabs.lat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dvandresgt/)
 [![Correo](https://img.shields.io/badge/Correo-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diegogiraldo506@gmail.com)
 
 </div>
